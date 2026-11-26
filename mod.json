@@ -1,0 +1,17 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "therealsoggy.amiamodyet",
+	"name": "Am I a mod",
+	"version": "v1.0.0",
+	"developer": "therealsoggy",
+	"description": "Checks if you are a mod. This mod doesnt send your data anywhere but the gd servers :)",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}

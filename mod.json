@@ -13,5 +13,6 @@
 	"description": "Checks if you are a mod. This mod doesnt send your data anywhere but the gd servers :)",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
-	}
+	},
+	"tags": ["online"]
 }
